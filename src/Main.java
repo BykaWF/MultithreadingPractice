@@ -97,7 +97,7 @@ public class Main {
                 }
                 System.out.println(i);
             }
-            System.out.println("Game over for you hackers");
+            System.out.println("Game over for you hackers, the police is here!");
             System.exit(0);
         }
     }
